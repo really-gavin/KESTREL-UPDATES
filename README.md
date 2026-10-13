@@ -1,4 +1,3 @@
-# KESTREL-UPDATES
 # Kestrel OS: install guide
 
 Kestrel OS is a hobby operating system for 64-bit UEFI PCs. `KestrelOS.iso` is the **starter edition**: it boots, gets online, installs itself, and then downloads the full Kestrel with `sys update`.
